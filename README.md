@@ -11,4 +11,4 @@ Develop a machine Learning model for predicting house prices using Python, sciki
 
 *Movie Recommendation :*
 
-Build a movie recommendation system using collaborative filtering and ML techniques in Python.
+Build a movie recommendation system using collaborative filtering and machine learning techniques in Python.
