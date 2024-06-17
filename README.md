@@ -1,12 +1,14 @@
 # Bharat_Intern_ML
 A repository for the tasks given by Bharat Intern in Machine Learning Internship.
 
-TASK : 1
+**TASK : 1**
 
-House Price Prediction :
-"Machine Learning model to predict house prices using python , scikit learn , tensorflow ."
+*House Price Prediction :*
 
-TASK : 2
+Develop a machine Learning model for predicting house prices using Python, scikit learn, TensorFlow ."
 
-Movie Recommendation :
-"To build a movie recommendation system using collaberative filtering and ML techniques in python."
+**TASK : 2**
+
+*Movie Recommendation :*
+
+Build a movie recommendation system using collaborative filtering and ML techniques in Python.
